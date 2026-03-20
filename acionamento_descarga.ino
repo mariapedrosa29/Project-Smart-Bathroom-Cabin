@@ -40,6 +40,3 @@ void loop() {
     Serial.println("Led descarga desligado"); //envia o monitor serial a informação que o led está desligado
   } 
 }
-
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
